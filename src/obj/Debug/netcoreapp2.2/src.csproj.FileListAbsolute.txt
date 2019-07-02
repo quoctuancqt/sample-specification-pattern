@@ -1,0 +1,17 @@
+D:\Personal\dynamic-search\src\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Personal\dynamic-search\src\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Personal\dynamic-search\src\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Personal\dynamic-search\src\bin\Debug\netcoreapp2.2\src.deps.json
+D:\Personal\dynamic-search\src\bin\Debug\netcoreapp2.2\src.runtimeconfig.json
+D:\Personal\dynamic-search\src\bin\Debug\netcoreapp2.2\src.runtimeconfig.dev.json
+D:\Personal\dynamic-search\src\bin\Debug\netcoreapp2.2\src.dll
+D:\Personal\dynamic-search\src\bin\Debug\netcoreapp2.2\src.pdb
+D:\Personal\dynamic-search\src\obj\Debug\netcoreapp2.2\src.csprojAssemblyReference.cache
+D:\Personal\dynamic-search\src\obj\Debug\netcoreapp2.2\src.csproj.CoreCompileInputs.cache
+D:\Personal\dynamic-search\src\obj\Debug\netcoreapp2.2\src.RazorAssemblyInfo.cache
+D:\Personal\dynamic-search\src\obj\Debug\netcoreapp2.2\src.RazorAssemblyInfo.cs
+D:\Personal\dynamic-search\src\obj\Debug\netcoreapp2.2\src.AssemblyInfoInputs.cache
+D:\Personal\dynamic-search\src\obj\Debug\netcoreapp2.2\src.AssemblyInfo.cs
+D:\Personal\dynamic-search\src\obj\Debug\netcoreapp2.2\src.RazorTargetAssemblyInfo.cache
+D:\Personal\dynamic-search\src\obj\Debug\netcoreapp2.2\src.dll
+D:\Personal\dynamic-search\src\obj\Debug\netcoreapp2.2\src.pdb
